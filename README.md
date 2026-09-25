@@ -1,2 +1,4 @@
 # Stellar-Texto
-Editor de texto 
+Editor de texto ligero escrito en C++ y Qt 
+
+
